@@ -1,10 +1,7 @@
-# Hi, I'm **Yukiho**, a passionate front-end developer specializing in React ecosystem.
- 
-## 🛠️ Technical Toolkit
- 
-- **Core**:  
-  React 18+, JavaScript (ES6+), HTML5/CSS3
-- **State Management**:  
-  Redux (Thunk/Saga), Context API, Zustand
-- **Styling**:  
-  CSS-in-JS (Styled-components, Emotion), Tailwind CSS, Sass
+# Hi there, I'm Yukiho 👋
+
+🎓 I'm a frontend developer from **Nanjing University of Posts and Telecommunications (NUPT)**.  
+💻 Passionate about building beautiful, fast, and user-friendly web applications.  
+📚 Currently diving deeper into **React**, **TypeScript**, and **frontend engineering** best practices. 
+
+Thanks for visiting! 😊
